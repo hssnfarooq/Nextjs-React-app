@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'TTRamillas Bold';
+    src: url('TTRamillas-Bold.eot');
+    src: url('TTRamillas-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TTRamillas-Bold.woff2') format('woff2'),
+        url('TTRamillas-Bold.woff') format('woff'),
+        url('TTRamillas-Bold.ttf') format('truetype'),
+        url('TTRamillas-Bold.svg#TTRamillas-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

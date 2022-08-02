@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Radnika Bold";
+    src: url("d75f8ce2e19eff8c6161c8e7be19f967.eot"); /* IE9*/
+    src: url("d75f8ce2e19eff8c6161c8e7be19f967.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("d75f8ce2e19eff8c6161c8e7be19f967.woff2") format("woff2"), /* chrome、firefox */
+    url("d75f8ce2e19eff8c6161c8e7be19f967.woff") format("woff"), /* chrome、firefox */
+    url("d75f8ce2e19eff8c6161c8e7be19f967.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("d75f8ce2e19eff8c6161c8e7be19f967.svg#Radnika Bold") format("svg"); /* iOS 4.1- */
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

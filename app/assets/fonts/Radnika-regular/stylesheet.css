@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Radnika';
+    src: url('Radnika-Medium.eot');
+    src: url('Radnika-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Radnika-Medium.woff2') format('woff2'),
+        url('Radnika-Medium.woff') format('woff'),
+        url('Radnika-Medium.ttf') format('truetype'),
+        url('Radnika-Medium.svg#Radnika-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
